@@ -1,4 +1,4 @@
-.main {
+.container {
 	background-color: purple;
 	width: 200px;
 	border-left-width: 5x;
@@ -6,8 +6,6 @@
 	border-left-color: green;
 	padding: 10px;
 	
-}
-#heading {
 	color: white;
 	font-size: 20px;
 	text-decoration: underline;

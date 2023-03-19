@@ -1,7 +1,7 @@
 .container {
 	background-color: purple;
 	width: 200px;
-	border-left-width: 5x;
+	border-left-width: 5px;
 	border-left-style: solid;
 	border-left-color: green;
 	padding: 10px;
